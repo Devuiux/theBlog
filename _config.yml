@@ -36,6 +36,8 @@ baseurl: ""
 #
 urlimg: "http://devuiux.github.io/theBlog/images/"
 
+# url: "http://localhost:4000"
+# urlimg: "http://localhost:4000/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
