@@ -1,14 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: "Bookshelf"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+header: false
 permalink: "/bookshelf/"
 ---
 
 <div class="row">
-    <div class="small-4 columns">
+    <div class="small-12 medium-4 columns">
       <div class="item-wrapper">
         <div class="img-wrapper">
           <a class="button expand add-to-cart">Add to Cart</a>
@@ -20,3 +18,7 @@ permalink: "/bookshelf/"
       </div>  
     </div>
   </div>
+
+<!--   title: "Bookshelf"
+subheadline: "A Step-by-Step Guide"
+teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs." -->
