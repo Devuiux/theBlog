@@ -25,12 +25,12 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #03A9F4;		// lightblue
-$ci-2: #B3E5FC;		// lightprimarycolor
+$ci-1: #334D5C;		// dark turquoise
+$ci-2: #45B29D;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #03A9F4;     // lightblue
+$ci-6: 80cbc4;     // teal20
 
 
 
@@ -71,14 +71,14 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: #0288D1;
+$topbar-bg-color: #fff;
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color: #FFFFFF;
-$topbar-link-color-hover: #FFFFFF;
-$topbar-link-color-active: #FFFFFF;
-$topbar-link-color-active-hover: #FFFFFF;
+$topbar-link-color: #000;
+$topbar-link-color-hover: #000;
+$topbar-link-color-active: #000;
+$topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
@@ -89,13 +89,13 @@ $topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #FFFFFF;
+$topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #FFFFFF;
-$topbar-menu-icon-color: #FFFFFF;
+$topbar-menu-link-color: #000;
+$topbar-menu-icon-color: #000;
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
 
