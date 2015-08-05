@@ -71,6 +71,8 @@
     url: "/blog/archive/"
   - title: Products
     url: "/products/"
+  - title: leftSidebarPage
+    url: "/leftSidebarPage/"
 
 - title: "Search"
   url: "/search/"
